@@ -1,2 +1,2 @@
-# IoT-Prototyping-Repo
-Development Repo for IoT Projects
+# IoT Web & Mobile Prototyping Branch
+Development Branch for IoT Web & Mobile Projects
